@@ -1,8 +1,10 @@
+package JavaPractice_10_03.Pollymorphism;
+
 public class Test {
     public static void main(String[] args) {
-        Dog dog = new Dog();      // Creating a Dog object
-        Animal animal = dog;      // Upcasting: Dog -> Animal
-        animal.speak();           // Calling speak() method
+        Dog dog = new Dog();
+        Animal animal = dog;
+        animal.speak();
     }
 }
 
