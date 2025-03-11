@@ -1,4 +1,4 @@
-package JavaPractice_10_03.Pollymorphism;
+package JavaPractice_10_03.pollymorphism;
 
 public class Test {
     public static void main(String[] args) {
